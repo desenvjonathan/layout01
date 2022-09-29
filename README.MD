@@ -4,7 +4,7 @@
 
 > Trilha Explorer
 
-Projeto desenvolvido durante o curso Explorer da Rocketseat, no módulo de Introdução ao HTML e CSS.
+Projeto desenvolvido durante o curso Explorer da Rocketseat, no módulo de introdução ao HTML e CSS.
 
 [Clique aqui para acessar](https://desenvjonathan.github.io/projeto01/)
 
