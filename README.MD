@@ -1,4 +1,4 @@
-# Layout 1 
+# Layout 01 
 
 ![preview](./.github/preview.png)
 
@@ -6,7 +6,7 @@
 
 Projeto desenvolvido durante o curso Explorer da Rocketseat, no módulo de introdução ao HTML e CSS.
 
-[Clique aqui para acessar](https://desenvjonathan.github.io/projeto01/)
+[Clique aqui para acessar](https://desenvjonathan.github.io/layout01/)
 
 ## Tecnologias
 
